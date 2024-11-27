@@ -1,6 +1,6 @@
 {
     "users": [
-      { "id": 1, "name": "Pablo", "email": "pablo@email.com", "senha":"123456" },
-      { "id": 2, "name": "José", "email": "jose@email.com", "senha":"123456" }
+      { "id": 1, "name": "PNosquita", "email": "pmosquita@email.com", "senha":"123456" },
+      { "id": 2, "name": "JBetoneira", "email": "betoneira@email.com", "senha":"123456" }
     ]
 }
